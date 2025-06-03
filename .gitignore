@@ -1,0 +1,17 @@
+# Ignorar arquivos temporários e de sistema
+*.log
+*.tmp
+*.swp
+*.bak
+*.db
+
+# Ignorar pastas de IDEs/editores
+.vscode/
+.idea/
+
+# Ignorar arquivos sensíveis
+.env
+
+# Ignorar dependências (caso use composer ou npm)
+vendor/
+node_modules/
